@@ -1,5 +1,5 @@
 import os
-from convnet_drawer import *
+from sam_convnet_drawer.convnet_drawer import *
 from pptx import Presentation
 from pptx.shapes.connector import Connector
 from pptx.enum.shapes import MSO_CONNECTOR

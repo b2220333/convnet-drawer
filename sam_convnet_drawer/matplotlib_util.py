@@ -1,4 +1,4 @@
-from convnet_drawer import *
+from sam_convnet_drawer.convnet_drawer import *
 import matplotlib.pyplot as plt
 
 

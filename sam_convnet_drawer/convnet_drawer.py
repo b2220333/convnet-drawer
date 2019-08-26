@@ -1,6 +1,6 @@
 import math
 from abc import ABCMeta, abstractmethod
-import config
+from sam_convnet_drawer import config
 
 
 class Line:
